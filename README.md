@@ -1,37 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Poland</h3>
+# 💫 About Me:
+<br>Hello! I'm Tim, a passionate Full-Stack Web Developer from Poland. My journey in tech began with a deep interest in understanding how digital solutions are built and deployed. This curiosity led me to immerse myself in the world of web development, where I have been honing my skills in both front-end and back-end technologies.<br><br>🌱 I'm currently expanding my knowledge in Advanced Front-End Frameworks and Back-End Technologies. I'm dedicated to continuous learning and keeping up with the latest trends and practices in tech.<br><br>In my work, I emphasize the importance of:<br><br>Front-End Development: Creating responsive and interactive user interfaces using HTML, CSS, JavaScript, and jQuery.<br>Back-End Development: Developing server-side logic with Node.js and Express, and managing databases with PostgreSQL.<br>Authentication and Security: Implementing secure authentication methods, including OAuth, and ensuring data security through techniques like salting and hashing passwords.<br>Session and Cookie Management: Effectively managing user sessions and handling cookies in web applications.<br>API Development: Designing and managing REST APIs and using tools like Postman for testing and debugging.<br>Version Control: Utilizing Git for efficient collaboration in team projects.
 
-<p align="left">
-  🌱 I’m currently learning <b>Advanced Front-End Frameworks and Back-End Technologies</b><br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/TX-X-XT">https://github.com/TX-X-XT</a><br>
-  📫 How to reach me: <b>twebdevxxx@proton.me</b><br>
-</p>
 
-<h3 align="left">Ask me about:</h3>
-<ul>
-  <li><b>Front-End Development:</b> Techniques for creating responsive and interactive user interfaces with HTML, CSS, JavaScript, and jQuery.</li>
-  <li><b>Back-End Development:</b> Best practices in developing server-side logic using Node.js and Express, and managing databases with PostgreSQL.</li>
-  <li><b>Authentication and Security:</b> Implementing secure authentication methods including OAuth, and using salting and hashing for password security.</li>
-  <li><b>Session and Cookie Management:</b> Strategies for managing user sessions and handling cookies effectively in web applications.</li>
-  <li><b>API Development:</b> Designing and managing REST APIs, and tools for testing and debugging like Postman.</li>
-  <li><b>Version Control:</b> Tips for using Git effectively in collaborative projects.</li>
-  <li><b>Continuous Learning in Tech:</b> My journey in self-education and tips for keeping up with emerging web technologies.</li>
-</ul>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tim-al-b29a102ab) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your social media links here -->
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TX-X-XT&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TX-X-XT&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TX-X-XT&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TX-X-XT&icon=2&color=0)](https://visitcount.itsvg.in)
+
